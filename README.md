@@ -1,2 +1,2 @@
 # Stanley-Profile
-Stanley's professional journey
+This a page that shows Stanley's professional and educational journey
